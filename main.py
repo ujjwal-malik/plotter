@@ -1,0 +1,13 @@
+
+import os.path as ospath
+import sys
+
+
+def main():
+    print ("Hello World\n")
+    
+
+if __name__== "__main__":
+    main()
+
+
